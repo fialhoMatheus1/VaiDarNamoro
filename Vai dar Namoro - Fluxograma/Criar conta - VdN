@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T21:19:47.182Z" agent="5.0 (Windows)" version="20.2.0" etag="c5K_EnfXNG1WpF4UwhVt" type="github"><diagram id="N3ydH2Jtfi65s2tqiJzD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-22T21:28:24.183Z" agent="5.0 (Windows)" etag="6ih8748vVVDjkXvlMPnd" version="20.2.0" type="github">
+  <diagram id="N3ydH2Jtfi65s2tqiJzD" name="Página-1">
+    <mxGraphModel dx="1021" dy="1687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UBKNUznyJ_dU5PSY88x6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UBKNUznyJ_dU5PSY88x6-3" target="UBKNUznyJ_dU5PSY88x6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UBKNUznyJ_dU5PSY88x6-3" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="60" y="210" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UBKNUznyJ_dU5PSY88x6-4" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="770" y="210" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UBKNUznyJ_dU5PSY88x6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UBKNUznyJ_dU5PSY88x6-5" target="UBKNUznyJ_dU5PSY88x6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UBKNUznyJ_dU5PSY88x6-5" value="&quot;Insira o seu nome&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UBKNUznyJ_dU5PSY88x6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.207;entryY=0.944;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UBKNUznyJ_dU5PSY88x6-6" target="UBKNUznyJ_dU5PSY88x6-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UBKNUznyJ_dU5PSY88x6-6" value="nome" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-90" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UBKNUznyJ_dU5PSY88x6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UBKNUznyJ_dU5PSY88x6-7" target="UBKNUznyJ_dU5PSY88x6-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UBKNUznyJ_dU5PSY88x6-7" value="&quot;Crie um nome de usuário:&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UBKNUznyJ_dU5PSY88x6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UBKNUznyJ_dU5PSY88x6-8" target="UBKNUznyJ_dU5PSY88x6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UBKNUznyJ_dU5PSY88x6-8" value="user" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UBKNUznyJ_dU5PSY88x6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.603;entryY=0.116;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UBKNUznyJ_dU5PSY88x6-9" target="UBKNUznyJ_dU5PSY88x6-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UBKNUznyJ_dU5PSY88x6-9" value="&quot;Crie uma senha:&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UBKNUznyJ_dU5PSY88x6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UBKNUznyJ_dU5PSY88x6-10" target="UBKNUznyJ_dU5PSY88x6-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UBKNUznyJ_dU5PSY88x6-10" value="senha" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-90" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UBKNUznyJ_dU5PSY88x6-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UBKNUznyJ_dU5PSY88x6-12" target="UBKNUznyJ_dU5PSY88x6-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UBKNUznyJ_dU5PSY88x6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UBKNUznyJ_dU5PSY88x6-12" target="UBKNUznyJ_dU5PSY88x6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UBKNUznyJ_dU5PSY88x6-12" value="todos os campos estão preenchidos com dados?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="770" y="30" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UBKNUznyJ_dU5PSY88x6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UBKNUznyJ_dU5PSY88x6-13" target="UBKNUznyJ_dU5PSY88x6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UBKNUznyJ_dU5PSY88x6-13" value="&quot;Todos os campos precisam estar preenchidos!&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="430" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UBKNUznyJ_dU5PSY88x6-23" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UBKNUznyJ_dU5PSY88x6-27" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="827" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
