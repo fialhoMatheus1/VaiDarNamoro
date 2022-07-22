@@ -1,1 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T22:12:21.879Z" agent="5.0 (Windows)" version="20.2.0" etag="2Sd85kTCxcKjGSouXpgX" type="github"><diagram id="vQNMJiAkpZsLAsd0s5pF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-22T22:18:46.834Z" agent="5.0 (Windows)" etag="DtmjKmjhpDSz9VgrQKen" version="20.2.0" type="github">
+  <diagram id="vQNMJiAkpZsLAsd0s5pF" name="Página-1">
+    <mxGraphModel dx="1240" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4BfNiDb1VzA05ypf9ZVL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4BfNiDb1VzA05ypf9ZVL-1" target="4BfNiDb1VzA05ypf9ZVL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4BfNiDb1VzA05ypf9ZVL-1" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="60" y="150" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4BfNiDb1VzA05ypf9ZVL-2" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="880" y="150" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4BfNiDb1VzA05ypf9ZVL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="4BfNiDb1VzA05ypf9ZVL-3" target="4BfNiDb1VzA05ypf9ZVL-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="55" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4BfNiDb1VzA05ypf9ZVL-3" value="&quot;Digite sua cantada:&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4BfNiDb1VzA05ypf9ZVL-4" value="cantada" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="460" y="10" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4BfNiDb1VzA05ypf9ZVL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4BfNiDb1VzA05ypf9ZVL-5" target="4BfNiDb1VzA05ypf9ZVL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4BfNiDb1VzA05ypf9ZVL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4BfNiDb1VzA05ypf9ZVL-5" target="4BfNiDb1VzA05ypf9ZVL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4BfNiDb1VzA05ypf9ZVL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4BfNiDb1VzA05ypf9ZVL-5" target="4BfNiDb1VzA05ypf9ZVL-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4BfNiDb1VzA05ypf9ZVL-5" value="cantada == &quot;&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="150" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4BfNiDb1VzA05ypf9ZVL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4BfNiDb1VzA05ypf9ZVL-6" target="4BfNiDb1VzA05ypf9ZVL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4BfNiDb1VzA05ypf9ZVL-6" value="&quot;Campo não preenchido!&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="350" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4BfNiDb1VzA05ypf9ZVL-14" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4BfNiDb1VzA05ypf9ZVL-15" value="&lt;div&gt;Não&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4BfNiDb1VzA05ypf9ZVL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4BfNiDb1VzA05ypf9ZVL-16" target="4BfNiDb1VzA05ypf9ZVL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4BfNiDb1VzA05ypf9ZVL-16" value="&quot;Cantada registrada!&#39;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="690" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
