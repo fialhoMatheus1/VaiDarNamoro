@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T14:30:27.897Z" agent="5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QP7soRylCRLMUakJ7Dio" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T14:37:41.859Z" agent="5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="MFuOh_rwTSTsMr9-P8Cr" version="20.2.0" type="github">
   <diagram id="YgkB6QmRQWdP7Jvxhru7" name="Página-1">
-    <mxGraphModel dx="2170" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,7 +121,7 @@
         <mxCell id="wzROkCnFUti5SOHcG2XJ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wzROkCnFUti5SOHcG2XJ-28" target="wzROkCnFUti5SOHcG2XJ-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wzROkCnFUti5SOHcG2XJ-28" value="&quot;Vídeo inserido com sucesso!&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="wzROkCnFUti5SOHcG2XJ-28" value="&quot;Efeito sonoro inserido com sucesso!&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="380" y="870" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wzROkCnFUti5SOHcG2XJ-29" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
