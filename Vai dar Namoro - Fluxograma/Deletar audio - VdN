@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T17:57:08.146Z" agent="5.0 (Windows)" etag="KWLjNl9x1ywOF6x9QX8E" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T17:57:40.964Z" agent="5.0 (Windows)" etag="XFHFCWSs2P5Oa5r1eZkC" version="20.2.0" type="github">
   <diagram id="MESVLlKgeF57ekAX8Sw9" name="Página-1">
-    <mxGraphModel dx="868" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="755" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,7 +73,7 @@
         <mxCell id="71GteBcNu_AM12iHoLGz-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="71GteBcNu_AM12iHoLGz-19" target="71GteBcNu_AM12iHoLGz-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="71GteBcNu_AM12iHoLGz-19" value="audio &amp;lt;- &quot;&quot;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+        <mxCell id="71GteBcNu_AM12iHoLGz-19" value="som &amp;lt;- &quot;&quot;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
           <mxGeometry x="750" y="390" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="71GteBcNu_AM12iHoLGz-7" value="Sim" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
