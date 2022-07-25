@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T15:02:39.652Z" agent="5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="0QsL-FiiTXj2ofjY6QMY" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T15:53:41.911Z" agent="5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gIHNJSAhW51z5GglmRQh" version="20.2.0" type="github">
   <diagram id="MESVLlKgeF57ekAX8Sw9" name="Página-1">
     <mxGraphModel dx="868" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,14 @@
         <mxCell id="VlxI5avUV3cyxO3WK1qQ-2" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="90" y="70" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="VlxI5avUV3cyxO3WK1qQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VlxI5avUV3cyxO3WK1qQ-3" target="VlxI5avUV3cyxO3WK1qQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VlxI5avUV3cyxO3WK1qQ-3" value="Programa mostra em tela um catálogo de efeitos sonoros." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="70" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VlxI5avUV3cyxO3WK1qQ-5" value="Admin clica na opção &quot;deletar audio?&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="70" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
